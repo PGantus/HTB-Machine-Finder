@@ -9,7 +9,8 @@
 ## 📥 Descarga
 ```bash
 git clone https://github.com/PGantus/HTB-Machine-Finder.git
-chmod +x machines.sh´
+cd HTB-Machine-Finder/
+chmod +x machines.sh
 ./machines.sh -u
 ```
 
