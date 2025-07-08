@@ -10,7 +10,8 @@ Script en Bash para buscar información de máquinas de Hack The Box. Permite bu
 ## 📥 Descarga
 ```bash
 git clone https://github.com/PGantus/HTB-Machine-Finder.git
-chmod +x machines.sh
+chmod +x machines.sh´
+./machines.sh -u
 ```
 
 ## 📌 Uso
